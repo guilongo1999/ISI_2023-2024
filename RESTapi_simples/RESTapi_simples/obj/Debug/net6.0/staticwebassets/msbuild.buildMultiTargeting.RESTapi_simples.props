@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RESTapi_simples.props" />
+</Project>

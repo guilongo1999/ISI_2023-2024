@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADOProyect", "ADOProyect.csproj", "{6BDAF0CF-9DE1-46F5-BEA1-31F3CE0DAC84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LayerDAL", "..\LayerDAL\LayerDAL.csproj", "{41DAD527-3A8B-4651-9A0B-466F96A8EEF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BDAF0CF-9DE1-46F5-BEA1-31F3CE0DAC84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BDAF0CF-9DE1-46F5-BEA1-31F3CE0DAC84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BDAF0CF-9DE1-46F5-BEA1-31F3CE0DAC84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BDAF0CF-9DE1-46F5-BEA1-31F3CE0DAC84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41DAD527-3A8B-4651-9A0B-466F96A8EEF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41DAD527-3A8B-4651-9A0B-466F96A8EEF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41DAD527-3A8B-4651-9A0B-466F96A8EEF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41DAD527-3A8B-4651-9A0B-466F96A8EEF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {603F00CB-5E3D-4502-A9DF-B7F934B8AB3A}
+	EndGlobalSection
+EndGlobal

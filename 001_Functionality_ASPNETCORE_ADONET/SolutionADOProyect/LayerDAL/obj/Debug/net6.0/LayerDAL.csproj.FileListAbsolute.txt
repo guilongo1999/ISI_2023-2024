@@ -1,0 +1,34 @@
+C:\Users\JCHAMBI\Desktop\LayerDAL\bin\Debug\net6.0\LayerDAL.deps.json
+C:\Users\JCHAMBI\Desktop\LayerDAL\bin\Debug\net6.0\LayerDAL.dll
+C:\Users\JCHAMBI\Desktop\LayerDAL\bin\Debug\net6.0\ref\LayerDAL.dll
+C:\Users\JCHAMBI\Desktop\LayerDAL\bin\Debug\net6.0\LayerDAL.pdb
+C:\Users\JCHAMBI\Desktop\LayerDAL\obj\Debug\net6.0\LayerDAL.csproj.AssemblyReference.cache
+C:\Users\JCHAMBI\Desktop\LayerDAL\obj\Debug\net6.0\LayerDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JCHAMBI\Desktop\LayerDAL\obj\Debug\net6.0\LayerDAL.AssemblyInfoInputs.cache
+C:\Users\JCHAMBI\Desktop\LayerDAL\obj\Debug\net6.0\LayerDAL.AssemblyInfo.cs
+C:\Users\JCHAMBI\Desktop\LayerDAL\obj\Debug\net6.0\LayerDAL.csproj.CoreCompileInputs.cache
+C:\Users\JCHAMBI\Desktop\LayerDAL\obj\Debug\net6.0\LayerDAL.dll
+C:\Users\JCHAMBI\Desktop\LayerDAL\obj\Debug\net6.0\ref\LayerDAL.dll
+C:\Users\JCHAMBI\Desktop\LayerDAL\obj\Debug\net6.0\LayerDAL.pdb
+E:\WorkSpaceAD\YOUTUBE 2\001_FEATURE ASP.NET CORE WITH ADO.NET\SolutionADOProyect\LayerDAL\bin\Debug\net6.0\LayerDAL.deps.json
+E:\WorkSpaceAD\YOUTUBE 2\001_FEATURE ASP.NET CORE WITH ADO.NET\SolutionADOProyect\LayerDAL\bin\Debug\net6.0\LayerDAL.dll
+E:\WorkSpaceAD\YOUTUBE 2\001_FEATURE ASP.NET CORE WITH ADO.NET\SolutionADOProyect\LayerDAL\bin\Debug\net6.0\ref\LayerDAL.dll
+E:\WorkSpaceAD\YOUTUBE 2\001_FEATURE ASP.NET CORE WITH ADO.NET\SolutionADOProyect\LayerDAL\bin\Debug\net6.0\LayerDAL.pdb
+E:\WorkSpaceAD\YOUTUBE 2\001_FEATURE ASP.NET CORE WITH ADO.NET\SolutionADOProyect\LayerDAL\obj\Debug\net6.0\LayerDAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpaceAD\YOUTUBE 2\001_FEATURE ASP.NET CORE WITH ADO.NET\SolutionADOProyect\LayerDAL\obj\Debug\net6.0\LayerDAL.AssemblyInfoInputs.cache
+E:\WorkSpaceAD\YOUTUBE 2\001_FEATURE ASP.NET CORE WITH ADO.NET\SolutionADOProyect\LayerDAL\obj\Debug\net6.0\LayerDAL.AssemblyInfo.cs
+E:\WorkSpaceAD\YOUTUBE 2\001_FEATURE ASP.NET CORE WITH ADO.NET\SolutionADOProyect\LayerDAL\obj\Debug\net6.0\LayerDAL.csproj.CoreCompileInputs.cache
+E:\WorkSpaceAD\YOUTUBE 2\001_FEATURE ASP.NET CORE WITH ADO.NET\SolutionADOProyect\LayerDAL\obj\Debug\net6.0\LayerDAL.dll
+E:\WorkSpaceAD\YOUTUBE 2\001_FEATURE ASP.NET CORE WITH ADO.NET\SolutionADOProyect\LayerDAL\obj\Debug\net6.0\ref\LayerDAL.dll
+E:\WorkSpaceAD\YOUTUBE 2\001_FEATURE ASP.NET CORE WITH ADO.NET\SolutionADOProyect\LayerDAL\obj\Debug\net6.0\LayerDAL.pdb
+E:\WorkSpaceAD\YOUTUBE 2\001_FEATURE ASP.NET CORE WITH ADO.NET\subir\SolutionADOProyect\LayerDAL\bin\Debug\net6.0\LayerDAL.deps.json
+E:\WorkSpaceAD\YOUTUBE 2\001_FEATURE ASP.NET CORE WITH ADO.NET\subir\SolutionADOProyect\LayerDAL\bin\Debug\net6.0\LayerDAL.dll
+E:\WorkSpaceAD\YOUTUBE 2\001_FEATURE ASP.NET CORE WITH ADO.NET\subir\SolutionADOProyect\LayerDAL\bin\Debug\net6.0\ref\LayerDAL.dll
+E:\WorkSpaceAD\YOUTUBE 2\001_FEATURE ASP.NET CORE WITH ADO.NET\subir\SolutionADOProyect\LayerDAL\bin\Debug\net6.0\LayerDAL.pdb
+E:\WorkSpaceAD\YOUTUBE 2\001_FEATURE ASP.NET CORE WITH ADO.NET\subir\SolutionADOProyect\LayerDAL\obj\Debug\net6.0\LayerDAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpaceAD\YOUTUBE 2\001_FEATURE ASP.NET CORE WITH ADO.NET\subir\SolutionADOProyect\LayerDAL\obj\Debug\net6.0\LayerDAL.AssemblyInfoInputs.cache
+E:\WorkSpaceAD\YOUTUBE 2\001_FEATURE ASP.NET CORE WITH ADO.NET\subir\SolutionADOProyect\LayerDAL\obj\Debug\net6.0\LayerDAL.AssemblyInfo.cs
+E:\WorkSpaceAD\YOUTUBE 2\001_FEATURE ASP.NET CORE WITH ADO.NET\subir\SolutionADOProyect\LayerDAL\obj\Debug\net6.0\LayerDAL.csproj.CoreCompileInputs.cache
+E:\WorkSpaceAD\YOUTUBE 2\001_FEATURE ASP.NET CORE WITH ADO.NET\subir\SolutionADOProyect\LayerDAL\obj\Debug\net6.0\LayerDAL.dll
+E:\WorkSpaceAD\YOUTUBE 2\001_FEATURE ASP.NET CORE WITH ADO.NET\subir\SolutionADOProyect\LayerDAL\obj\Debug\net6.0\ref\LayerDAL.dll
+E:\WorkSpaceAD\YOUTUBE 2\001_FEATURE ASP.NET CORE WITH ADO.NET\subir\SolutionADOProyect\LayerDAL\obj\Debug\net6.0\LayerDAL.pdb

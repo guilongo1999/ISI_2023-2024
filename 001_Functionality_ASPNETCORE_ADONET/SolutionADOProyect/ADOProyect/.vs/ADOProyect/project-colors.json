@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6bdaf0cf-9de1-46f5-bea1-31f3ce0dac84": {
+      "ProjectGuid": "6bdaf0cf-9de1-46f5-bea1-31f3ce0dac84",
+      "DisplayName": "ADOProyect",
+      "ColorIndex": 0
+    },
+    "41dad527-3a8b-4651-9a0b-466f96a8eef2": {
+      "ProjectGuid": "41dad527-3a8b-4651-9a0b-466f96a8eef2",
+      "DisplayName": "LayerDAL",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34219.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RESTapi_simples", "RESTapi_simples\RESTapi_simples.csproj", "{6FACA967-D100-4F86-89AD-29E474F05995}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LayerDAL", "LayerDAL\LayerDAL.csproj", "{B35CEC2F-81AC-4A69-8AC2-31C4BB7A81E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FACA967-D100-4F86-89AD-29E474F05995}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FACA967-D100-4F86-89AD-29E474F05995}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FACA967-D100-4F86-89AD-29E474F05995}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FACA967-D100-4F86-89AD-29E474F05995}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B35CEC2F-81AC-4A69-8AC2-31C4BB7A81E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B35CEC2F-81AC-4A69-8AC2-31C4BB7A81E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B35CEC2F-81AC-4A69-8AC2-31C4BB7A81E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B35CEC2F-81AC-4A69-8AC2-31C4BB7A81E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B4B50A4-23D3-480B-93D3-9D52DC5C8F11}
+	EndGlobalSection
+EndGlobal
