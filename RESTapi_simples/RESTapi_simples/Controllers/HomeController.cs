@@ -44,7 +44,6 @@ namespace RESTapi_simples.Controllers
 
             List<UserInfo> ListUser = await _repository.GetUserInfos();
 
-            return View();
 
 
         
